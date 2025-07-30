@@ -1,1 +1,6 @@
-# Blockchain-
+# Blockchain
+
+```
+python -m venv venv
+venv\Scripts\activate
+```
